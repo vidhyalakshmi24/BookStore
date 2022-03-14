@@ -1,0 +1,285 @@
+header{
+    background-color:#d8bfd8;
+    padding:30px;
+    }
+    header h1{
+    font-size:30px;
+    color:#000000;
+    margin:1.5 0px;
+    }
+      
+   
+   
+   ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-top:10px;
+  margin-bottom:10px;
+  
+  }
+  
+  li {
+  float: left;
+  }
+  
+  li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+  
+  li a:hover {
+  background-color: #b3d9ff;
+  }
+  
+  
+  .contentleft{
+  float:left;
+  width:75%;
+  
+  
+   
+  }
+  .card{
+  border-style: solid;
+   background-color: #b3d9ff;
+  }
+  .card img{
+  
+  margin-left:10px;
+  
+  }
+  .card p{
+  margin-bottom:10px;
+  }
+  .card1{
+  margin-top:10px;
+  border-style: solid;
+   background-color: #b3d9ff;
+  }
+  .card1 img{
+  
+  margin-left:10px;
+  
+  }
+  .card1 p{
+  
+  margin-bottom:10px;
+  }
+  .bot{
+  
+  background-color:#dda0dd;
+     border: none;
+     color: black;
+     padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+     display: inline-block;
+    font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+  }
+  .bot:hover{
+  background-color:white;
+  }
+  
+  
+  
+  
+  
+  
+  .contentright{
+   width:25%;
+   
+  
+   
+  }
+  
+  .abt{
+  border-style: solid;
+   background-color: #b3d9ff;
+   margin-top:  10px;
+  margin-right:10px;
+   margin-left:1140px;
+  }
+  .abt img{
+      margin-left:20px;
+  
+  }
+  .bk{
+  margin-top:10px;
+  margin-right:10px;
+  margin-left:1140px;
+  border-style: solid;
+  background-color: #b3d9ff;
+  }
+  .gallery {
+  margin-top:20px;
+  border-style: solid;
+  margin: 5px;
+  border: 5px solid #ccc;
+  float:left;
+  width: 120px;
+  border-style: solid;
+  
+   margin-left:10px;
+  
+  
+  }
+  div.gallery:hover {
+  border: 5px solid #777;
+  }
+  
+  
+  div.gallery img {
+  
+  width: 100%;
+  height:auto;
+  marign-left:10px;
+  
+  
+  
+  }
+  
+  .gallery1 {
+  margin-top:10px;
+  border-style: solid;
+  margin: 5px;
+  border: 5px solid #ccc;
+  float:left;
+  width: 120px;
+  border-style: solid;
+  margin-left:10px;
+  margin-right:10px;
+  
+  
+  }
+  div.gallery1 img {
+  
+  width: 100%;
+  height:auto;
+  marign-right:10px;
+  
+  
+  
+  }
+  div.gallery1:hover {
+  border: 5px solid #777;
+  }
+  .gallery2 {
+  margin-top:10px;
+  border-style: solid;
+  margin: 5px;
+  border: 5px solid #ccc;
+  float:left;
+  width: 120px;
+  border-style: solid;
+  margin-left:10px;
+  margin-right:10px;
+  
+  
+  }
+  div.gallery2 img {
+  
+  width: 100%;
+  height:auto;
+  marign-right:10px;
+  
+  
+  
+  
+  }
+  div.gallery2:hover {
+  border: 5px solid #777;
+  }
+  
+  .cardd{
+  border-style: solid;
+   background-color: #b3d9ff;
+   margin-top:  10px;
+  margin-right:10px;
+   margin-left:1140px;
+  }
+  
+  
+  
+  footer {
+  marign-top:8px;
+  text-align: center;
+  padding: 3px;
+  background-color:#d8bfd8;
+  color: black;
+  border-style: solid;
+  }
+  
+  .botton1{
+  background-color:#b3d9ff;
+      border: none;
+      color: black;
+      padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+      margin: 4px 2px;
+  opacity: 0.6;
+      cursor: not-allowed;
+  }
+  .bottt{
+  background-color:#d8bfd8;
+     border: none;
+     color: black;
+     padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+     display: inline-block;
+    font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+  }
+  .bottt:hover{
+  background-color:white;
+  }
+  
+  .bott{
+  background-color:#8750E5;
+     border: none;
+     color: black;
+     padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+     display: inline-block;
+    font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+  }
+  .bott:hover{
+  background-color:white;
+  }
+  .botton2{
+  
+  background-color:#b3d9ff;
+     border: none;
+     color: black;
+     padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+     display: inline-block;
+    font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+  }
+  .botton2:hover{
+  background-color:white;
+  }
+  .footer p{
+  color:black;
+  font-family:Arial;
+   font-size:45px;
+  
+  }

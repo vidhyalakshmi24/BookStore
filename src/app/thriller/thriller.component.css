@@ -1,0 +1,108 @@
+.author{
+    max-width:1000px;
+    margin:auto;
+    overflow:auto;
+    }
+    .author{
+    max-width:1000px;
+    margin:auto;
+    overflow:auto;
+    }
+    .gallery{
+    border-style: solid;
+    margin: 5px;
+
+    margin:5px;
+    border:5px solid #ccc;
+    float:right;
+    width:350;
+    }
+    .gallery img{
+    width:100%;
+    height:auto;
+    
+    }
+    .cont{
+    padding:15px;
+    text-align:center;
+    }
+    
+    div.gallery:hover {
+border: 5px solid #777;
+}
+
+    footer {
+marign-top:8px;
+text-align: center;
+padding: 3px;
+background-color:#d8bfd8;
+color: black;
+border-style: solid;
+}
+.botton1{
+  background-color:#b3d9ff;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  cursor: not-allowed;
+  }
+  .bottt{
+  background-color:#d8bfd8;
+ border: none;
+ color: black;
+ padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+ display: inline-block;
+font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+  }
+  .bottt:hover{
+  background-color:white;
+  }
+  
+  .bott{
+  background-color:#8750E5;
+ border: none;
+ color: black;
+ padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+ display: inline-block;
+font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+  }
+  .bott:hover{
+  background-color:white;
+  }
+  .botton2{
+  
+  background-color:#b3d9ff;
+ border: none;
+ color: black;
+ padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+ display: inline-block;
+font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+  }
+  .botton2:hover{
+  background-color:white;
+  }
+    .footer p{
+  color:black;
+  font-family:Arial;
+   font-size:45px;
+
+  }
+    
